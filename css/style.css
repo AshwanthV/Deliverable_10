@@ -114,8 +114,8 @@ nav a:hover , nav a:focus {
 
 /* Step 2a: Write selector/rule property to position the default position for the skip class element*/
 .skip a {
-  top: -40px;
   position: absolute;
+  top: -40px;
 }
 
 
